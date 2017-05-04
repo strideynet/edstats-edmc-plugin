@@ -7,7 +7,7 @@ A plugin for [Elite Dangerous Market Connector](https://github.com/Marginal/EDMa
 3. Open Elite Dangerous Market Connector and go to File -> Settings. Then browse to the plugins tab:  
 ![file directory](https://i.gyazo.com/7c4f8bb35ae0c3b9e866d4969e758395.png)  
 4. Click "Open" to open the plugins directory.  
-5. Open the Zip file we have extracted and drag the folder from within into the plugins directory:  
+5. Open the Zip file we have downloaded and drag the folder from within into the plugins directory:  
 ![install](https://i.gyazo.com/9c9a5715b4b81a60c52d2150006b0590.png)  
 6. Restart Elite Dangerous Market Connector and once again open File -> Settings and then browse to the EDStats tab:  
 ![config](https://i.gyazo.com/8670d311dc01b7819280fdc490de20cf.png)  
