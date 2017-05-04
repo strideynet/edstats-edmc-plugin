@@ -1,0 +1,1 @@
+edstats-edmc-plugin
