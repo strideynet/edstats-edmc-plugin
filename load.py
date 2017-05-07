@@ -52,7 +52,7 @@ def prefs_changed():
     config.set("EDStatsKey", this.key.get())
 
 def journal_entry(cmdr, system, station, entry, state):
-    this.status['text'] = "Sendind..."
+    this.status['text'] = "Sending..."
     url = "https://edstats.isadankme.me/api/submit/journal"
     post = {
         "cmdr" : cmdr,
