@@ -63,7 +63,7 @@ def journal_entry(cmdr, system, station, entry, state):
         "email" : this.email.get(),
         "key" : this.key.get()
         }
-    r = requests.post(url, json=post)
+    r = requests.post(url, data=post)
     if r.status_code == 200:
         this.status['text'] = "Success"
     else:
@@ -78,7 +78,7 @@ def cmdr_data(data):
         "email" : this.email.get(),
         "key" : this.key.get()
         }
-    r = requests.post(url, json=post)
+    r = requests.post(url, data=post)
     if r.status_code == 200:
         this.status['text'] = "Success"
     else:
