@@ -1,6 +1,6 @@
-# edstats-edmc-plugin:  
+# edstats-edmc-plugin (AN AWESOME PLUGGIN):
 A plugin for [Elite Dangerous Market Connector](https://github.com/Marginal/EDMarketConnector) that transmits data to [EDStats](https://edstats.isadankme.me)! Follow the instructions below and if there are any issues contact Strideynet on the following [Discord](https://discord.gg/7kbduxb)!  
-## How to install:  
+## Easy to install:  
 1. [Install EDMC by following the instructions](https://github.com/Marginal/EDMarketConnector)  
 2. Download this plugin:  
 ![plugin download](https://i.gyazo.com/7160c18f14aafcc82708bd099e072105.png)  
