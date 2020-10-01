@@ -16,6 +16,6 @@ A plugin for [Elite Dangerous Market Connector](https://github.com/Marginal/EDMa
 8. Close down the settings and click "Update". EDStats should now show as "Success". It will show '401' if your details were incorrect:  
 ![set](https://i.gyazo.com/352a308828a1a37d6bd2af4635612a47.png)  
   
-Should you encounter any difficulties consult me on Discord!
+If you encounter any difficulties consult me on Discord!
 
 
